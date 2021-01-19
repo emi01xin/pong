@@ -1,5 +1,6 @@
 # Machine Learning with Pong
 Teaching an AI how to play pong by coding a neural network through deep learning using OpenAI Gym
+* AI successfully wins a game of pong after 3-4 days of training 
 
 #### References
 
