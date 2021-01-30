@@ -3,7 +3,7 @@ Teaching an AI how to play pong by coding a neural network through deep learning
 * AI successfully wins a game of pong after 5-6 days of training 
 
 #### Progress
-Day 1 <mb>
+Day 1 <br>
 ![demo d1](https://user-images.githubusercontent.com/54726165/106345799-b1028380-6280-11eb-979e-befd93dd1c28.gif)
 
 
